@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div>
     <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=sky-shine&show_icons=true&theme=dark width=30% />
-    <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=sky-shine&show_icons=true&theme=dark width=60% />
+<!--     <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=sky-shine&show_icons=true&theme=dark width=60% /> -->
 </div>
